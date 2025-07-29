@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning University of Minho
+- 🌱 I’m currently learning on University of Minho
 - 👯 I’m looking to collaborate on Data Science and Front-End Develpment
 <!--
 **RuiAmaral24/ruiamaral24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
