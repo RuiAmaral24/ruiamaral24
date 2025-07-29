@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Rui Amaral and I'm a Software Engineer student in my final year at the University of Minho, with a strong interest in Data Science and Front-End Development!
+
 - 🌱 I’m currently learning on University of Minho
 - 👯 I’m looking to collaborate on Data Science and Front-End Develpment
 <!--
