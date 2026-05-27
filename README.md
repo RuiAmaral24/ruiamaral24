@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-My name is Rui Amaral and I'm a Software Engineer student in my final year at the University of Minho, with a strong interest in Data Science and Front-End Development!
+My name is Rui Amaral and I'm a Software Engineer student in my final year at the University of Minho, with a strong interest in Data Science and AI Development!
 
 - 🌱 I’m currently learning on University of Minho
-- 👯 I’m looking to collaborate on Data Science and Front-End Develpment
+- 👯 I’m looking to collaborate on Data Science and AI
 <!--
 **RuiAmaral24/ruiamaral24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
